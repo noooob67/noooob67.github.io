@@ -14,6 +14,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+[this image](96bbf41a555c7f5ff6da2e288fb9751c.webp)
 
 - Bulleted
 - List
